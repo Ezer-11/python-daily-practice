@@ -15,6 +15,6 @@ INSTRUCTIONS :-
 * after looking at solution analyze what you did wrong and write it down on your 
 mistake notebook with sufficient info.
 
-*revise every question and its logic on the gap of 2 days.
+* revise every question and its logic on the gap of 2 days.
 
-*keep solving keep learning good luck!!!
+* keep solving keep learning good luck!!!
